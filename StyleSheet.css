@@ -1,0 +1,86 @@
+body {
+    background-image: url(https://thumb.ac-illust.com/40/40508d20bc8c95315d3f8e65c903751f_t.jpeg);
+}
+
+.all {
+    background-image: url(https://thumb.photo-ac.com/b3/b3e5966c402bfe3958ed897fa1559a80_t.jpeg);
+    padding: 30px;
+    margin:auto;
+	width:80%;
+	max-width:500px;
+}
+h1, h2, fieldset, footer {
+    text-align: center;
+}
+ h2, legend {
+    font-family: 'Ma Shan Zheng', cursive;
+}
+.intro {
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    border: dotted;
+    border-color: gold;
+    border-width: 10px;
+}
+
+.img1 {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro-text {
+    padding-left: 40px;
+}
+
+.wrap-video {
+    position: relative;
+}
+
+.wrap-video video {
+        width: 100%;
+        height: 100%
+    }
+.video-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 22px;
+    color: antiquewhite;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+.img2 {
+    width: 300px;
+}
+legend{
+    font-size:25px;
+}
+figcaption {
+    color:darkslategray;
+    font-style:italic;
+}
+
+.img3 {
+    width: 300px;
+}
+
+.img4 {
+    width: 300px;
+}
+.gallery{
+	text-align: center;
+}
+footer {
+    font-size: 18px;
+	margin-top:20px;
+	margin-bottom:15px;
+}
